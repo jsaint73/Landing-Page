@@ -1,7 +1,5 @@
-#header{
+#header, footer{
     background-color: #1f2937;
-}
-
-:active{
-    justify-content: center;
+    font: Roboto;
+    
 }
