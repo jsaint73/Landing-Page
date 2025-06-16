@@ -34,10 +34,15 @@
     font-style: italic;
 }
 
+footer{
+    color:#f9faf8;
+    text-align: center;
+}
+
 button{
     color: #f9faf8;
     background-color: #3882f6;
-    
+    border-radius: 12px;
 }
 
 #Action{
@@ -49,4 +54,5 @@ button{
     color: #1f2937;
     font-weight: 900;
     font-size: 36px;
+    display: flex;
 }
