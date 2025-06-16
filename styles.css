@@ -1,5 +1,52 @@
+*{
+    font: Roboto; 
+}
+
 #header, footer{
     background-color: #1f2937;
-    font: Roboto;
+}
+.headerright{
+    color:#f9faf8;
+}
+
+#maintext{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
     
+}
+
+#secondarytext{
+    font-size: 18px;
+    color: #e5e7eb; 
+
+}
+
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.quote{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+button{
+    color: #f9faf8;
+    background-color: #3882f6;
+    
+}
+
+#Action{
+    background-color: #3882f6;
+    text-align: center;
+}
+
+#Information{
+    color: #1f2937;
+    font-weight: 900;
+    font-size: 36px;
 }
